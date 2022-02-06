@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fabianacp
 - 👀 I’m interested in app development and artificial intelligence
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on the development of apps and robotics
 - 📫 
 
