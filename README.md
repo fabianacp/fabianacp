@@ -32,14 +32,9 @@ Data scientist and developer at **NOD Coding Stockholm** — I build ML models a
     </td>
   </tr>
   <tr>
-    <td align="center" width="50%">
-      <strong>The Aristocrat Mistress — Online Store</strong><br/>
-      <img src="assets/online_store.gif" width="100%" alt="Online Store"/><br/>
-      <sub>Luxury e-commerce landing page · HTML · CSS · JavaScript</sub>
-    </td>
-    <td align="center" width="50%">
+    <td align="center" colspan="2">
       <strong>Maternal Risk Factors & Autism</strong><br/>
-      <img src="assets/autism.gif" width="100%" alt="Autism Research"/><br/>
+      <img src="assets/autism.gif" width="50%" alt="Autism Research"/><br/>
       <sub>EDA · pandas · Matplotlib · Seaborn · global dataset</sub>
     </td>
   </tr>
