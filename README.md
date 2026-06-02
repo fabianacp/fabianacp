@@ -14,9 +14,9 @@ Data scientist and developer at **NOD Coding Stockholm** — I build ML models a
       <sub>ML model + React dashboard · scikit-learn · FastAPI · Plotly</sub>
     </td>
     <td align="center" width="50%">
-      <strong>Federal Sentencing Disparity</strong><br/>
-      <img src="assets/sentencing_disparity.gif" width="100%" alt="Federal Sentencing Disparity"/><br/>
-      <sub>Interactive dashboard · Python · Plotly · federal courts data</sub>
+      <strong>ParkView — Drone Parking System</strong><br/>
+      <img src="assets/parkview.gif" width="100%" alt="ParkView Drone Parking System"/><br/>
+      <sub>YOLOv8-nano · Drone CV · Real-time dashboard · City of Miami proposal</sub>
     </td>
   </tr>
   <tr>
@@ -32,9 +32,14 @@ Data scientist and developer at **NOD Coding Stockholm** — I build ML models a
     </td>
   </tr>
   <tr>
-    <td align="center" colspan="2">
+    <td align="center" width="50%">
+      <strong>Federal Sentencing Disparity</strong><br/>
+      <img src="assets/sentencing_disparity.gif" width="100%" alt="Federal Sentencing Disparity"/><br/>
+      <sub>Interactive dashboard · Python · Plotly · federal courts data</sub>
+    </td>
+    <td align="center" width="50%">
       <strong>Maternal Risk Factors & Autism</strong><br/>
-      <img src="assets/autism.gif" width="50%" alt="Autism Research"/><br/>
+      <img src="assets/autism.gif" width="100%" alt="Autism Research"/><br/>
       <sub>EDA · pandas · Matplotlib · Seaborn · global dataset</sub>
     </td>
   </tr>
@@ -52,3 +57,5 @@ Data scientist and developer at **NOD Coding Stockholm** — I build ML models a
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat&logo=ultralytics&logoColor=black)
