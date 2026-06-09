@@ -1,6 +1,8 @@
 # Hi, I'm Fabiana 👋
 
-Data scientist and developer at **NOD Coding Stockholm** — I build ML models and interactive dashboards that tell stories data usually hides.
+Journalist turned data analyst and ML developer. I build machine learning models,
+computer vision systems, and full-stack interactive dashboards — currently at NOD
+Coding Stockholm. Five languages, based in Sweden, open to global roles.
 
 ---
 
